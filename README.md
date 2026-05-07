@@ -19,4 +19,3 @@ Here are some ideas to get you started:
   <img src="https://i.postimg.cc/Tp23qmc4/image.png" height="105"/>
 </a>
 
-![Java](https://shields.io)
